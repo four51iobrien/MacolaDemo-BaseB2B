@@ -1,0 +1,13 @@
+{
+  "appname": "MacolaDemo BaseB2B",
+  "ocscope": "FullAccess",
+  "clientid": "7C2577F3-C75F-4A66-91E9-EF48BE1404CB",
+  "buyerid": "dealer001",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
